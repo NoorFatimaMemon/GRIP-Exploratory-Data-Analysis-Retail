@@ -10,3 +10,6 @@ Current functionalities of this codebase:
 2. Conducts a thorough examination of diverse parameters within the retail domain to assess their impact on profit and sales.
 3. Utilizes data analysis techniques to uncover strategic avenues for increasing profitability.
 4. Enables data-driven business decisions by providing insights into the relationship between various parameters and business performance.
+
+
+Feel free to explore the repository for further details, insights, and visualizations related to the EDA-retail task.
